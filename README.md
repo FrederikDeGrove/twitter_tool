@@ -19,7 +19,7 @@ Some interesting functions (refer to main.py for all functions):
 - collect timeline information
 - you can write away collected information to csv
 
-# Network functions
+Network functions:
 
 1. create_network
 - allows you to collect followers, friends or both from a list of egos (either name or ID).
