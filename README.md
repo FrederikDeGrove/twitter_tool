@@ -8,14 +8,14 @@ Some interesting functions (refer to main.py for all functions):
 1. authenticate
 - you need login creditials from your developer account.
 
-profile_information_search
+2. profile_information_search
 - allows you to provide some parameters to collect profile information. 
 - you can write away collected information to csv
 
-2. ID_to_name
+3. ID_to_name
 - ID to name converter
 
-3. timeline
+4. timeline
 - collect timeline information
 - you can write away collected information to csv
 
