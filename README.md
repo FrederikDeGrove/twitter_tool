@@ -1,6 +1,6 @@
 # Twitter_tool.
-# Allows you to collect Twitter data and build social networks.
-# Based on the Tweepy library.
+This tool allows you to collect Twitter data and build social networks.
+Functionality is based on the Tweepy library.
 
 
 Some interesting functions (refer to main.py for all functions):
