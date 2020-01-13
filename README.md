@@ -6,11 +6,11 @@ Functionality is based on the Tweepy library.
 Some interesting functions (refer to main.py for all functions):
 
 1. authenticate
-- you need login creditials from your developer account.
+  - you need login creditials from your developer account.
 
 2. profile_information_search
-- allows you to provide some parameters to collect profile information. 
-- you can write away collected information to csv
+  - allows you to provide some parameters to collect profile information. 
+  - you can write away collected information to csv
 
 3. ID_to_name
 - ID to name converter
